@@ -371,14 +371,4 @@ It is stronger than a generic BI dashboard because it connects analytics directl
 
 ---
 
-## CV Bullet
 
-Built a TSO operational analytics dashboard using Python and Power BI to forecast hourly load, calculate transmission technical losses, and monitor generation reserve margin using semi-realistic SCADA-style telemetry and power system KPIs.
-
----
-
-## Interview Explanation
-
-I built this project to simulate how a Transmission System Operator could monitor operational adequacy. The Python pipeline prepares hourly load, weather, generation, import/export and outage data. A forecasting model estimates demand using calendar and weather features. The Power BI dashboard then visualizes forecast accuracy, technical losses, reserve margin, generation mix, import dependency and shortage-risk hours.
-
-The project demonstrates my ability to connect power-system domain knowledge with practical data engineering and BI implementation.
